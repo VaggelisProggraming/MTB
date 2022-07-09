@@ -1,0 +1,35 @@
+body {
+    background-image: url(./background.jpeg);
+}
+
+
+.content {
+    font-family: 'Trebuchet MS', sans-serif;
+    position: fixed;
+    right: 17%;
+    /* left: 40%; */
+    background-color: white;
+    width: 700px;
+    height: 1000px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+}
+
+select {
+    background-color: yellowgreen;
+    border: 0px;
+    border-radius: 12px;
+}
+select:hover {
+    border: 0px;
+    border-radius: 2px;
+
+}
+
+a {
+    text-decoration: none;
+}
